@@ -1,0 +1,59 @@
+.container {
+  margin: 0 auto;
+  width: 768px;
+}
+
+header {
+  background-color: black;
+}
+
+#logo {
+  display: block;
+  margin: 0 auto;
+}
+
+nav{
+	background-color: #999999;
+	list-style-type: none;
+	float: right;
+	width: 110px;
+	text-align: center;
+	margin-left: 0px;
+	padding-bottom: 340px;
+	border-bottom: 1px solid black;
+}
+
+ul {
+	padding-top: 20px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+li {
+	font-family: Arial;
+	display: block;
+	height: 30px;
+}
+	
+
+ a {
+	text-decoration: none;
+	color: white;
+	position: relative;
+	font-weight: bold;
+
+}
+
+.content {
+	float: left;
+	width: 648px;
+	padding-right: 10px;
+	padding-bottom: 27px;
+	border-bottom: 1px solid black;
+}
+
+.footer {
+	padding: 20px 0px 0px 0px;
+	float: left;
+	width: 628px;
+}
